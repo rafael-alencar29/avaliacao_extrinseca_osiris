@@ -1,4 +1,4 @@
-# avaliacao_extrinseca_osiris
+# Avaliação extrínseca 
 
 Avaliação extrínseca da base de dados do Osíris. O dataset consiste de processos de documentos legais do Osíris.
 
